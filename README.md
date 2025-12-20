@@ -71,7 +71,7 @@ cd project-1-calculator-
 
 🌐 Live Demo
 
-👉 https://prashant-tiwari-sys.github.io/project-1-calculator-/
+👉 [https://prashant-tiwari-sys.github.io/project-2-IBM-calculator/]
 ---
 
 🎯 Learning Outcomes
